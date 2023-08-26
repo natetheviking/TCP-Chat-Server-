@@ -1,4 +1,4 @@
-# TCP-Chat-Server-
+# TCP Chat Server 
 TCP Chat Server/Multi-user chat server 
 A TCP Chat Server, specifically a multi-user chat server, is a network application that allows multiple clients to connect and communicate with each other in a real-time chat environment over the Transmission Control Protocol (TCP). In a multi-user chat server, clients can send and receive messages to/from each other, creating a virtual chat room where users can interact.
 Here's an overview of how a multi-user chat server using TCP works:
