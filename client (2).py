@@ -3,9 +3,9 @@ import socket
 
 client = []
 passwords = {
-    'nathan': '1234',
-    'mordi': '5678',
-    'kfir': '9123'
+    'name': 'pass',
+    'name': 'pass',
+    'name': 'pass'
 }
 
 username = input("Enter your username: ")
